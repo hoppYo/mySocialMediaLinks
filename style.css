@@ -182,11 +182,12 @@ p {
     height: 100px;
     border-radius: 50%;
   }
-  /* p {
+  p {
     font-size: 12px;
     margin-bottom: 7px;
     color: rgb(185, 181, 181);
-  } */
+  }
+  
   .links {
     display: flex;
     align-items: center;

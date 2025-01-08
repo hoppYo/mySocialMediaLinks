@@ -8,7 +8,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* min-height: 30px; */
+  min-height: 20vh;
   background-color: black;
   font-size: 15;
 }
@@ -108,6 +108,14 @@ p {
   font-size: 12px;
 }
 @media (max-width: 1024px) {
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+    background-color: black;
+    font-size: 15;
+  }
   .container {
     display: flex;
     align-items: center;
@@ -135,7 +143,15 @@ p {
 }
 
 @media (max-width: 768px) {
-  .container {
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+    background-color: black;
+    font-size: 15;
+  }.container {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -167,7 +183,15 @@ p {
 }
 
 @media (max-width: 426px) {
-  .container {
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+    background-color: black;
+    font-size: 15;
+  }.container {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -200,6 +224,14 @@ p {
 }
 
 @media (max-width: 375px) {
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+    background-color: black;
+    font-size: 15;
+  }
   .container {
     display: flex;
     align-items: center;
@@ -226,6 +258,14 @@ p {
   }
 }
 @media (max-width: 320px) {
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+    background-color: black;
+    font-size: 15;
+  }
   .container {
     display: flex;
     align-items: center;

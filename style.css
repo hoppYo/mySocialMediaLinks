@@ -21,7 +21,7 @@ body {
   gap: 10px;
   background-color: hsl(0, 0%, 20%);
   padding: 30px;
-  min-height: 30vh;
+  min-height: 50vh;
 }
 
 .picture {
@@ -124,7 +124,7 @@ p {
     gap: 10px;
     background-color: hsl(0, 0%, 20%);
     padding: 20px;
-    min-height: 30vh;
+    min-height: 50vh;
     flex-basis: 40%;
   }
 
@@ -160,7 +160,7 @@ p {
     gap: 10px;
     background-color: hsl(0, 0%, 20%);
     padding: 20px;
-    min-height: 30vh;
+    min-height: 50vh;
     flex-basis: 40%;
   }
   .picture {
@@ -201,7 +201,7 @@ p {
     gap: 10px;
     background-color: hsl(0, 0%, 20%);
     padding: 30px;
-    min-height: 20vh;
+    min-height: 50vh;
     flex-basis: 40%;
   }
   .picture {
@@ -242,8 +242,8 @@ p {
     flex-direction: column;
     gap: 10px;
     background-color: hsl(0, 0%, 20%);
-    padding: 30px;
-    min-height: 20vh;
+    padding: 20px;
+    min-height: 50vh;
     flex-basis: 40%;
   }
   .links {
@@ -278,7 +278,7 @@ p {
     gap: 10px;
     background-color: hsl(0, 0%, 20%);
     padding: 20px;
-    min-height: 30vh;
+    min-height: 50vh;
     flex-basis: 40%;
   }
 

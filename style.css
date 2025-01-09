@@ -8,7 +8,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 30vh;
+  min-height: 70vh;
   background-color: black;
   font-size: 15;
 }
@@ -112,7 +112,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 30vh;
+    min-height: 70vh;
     background-color: black;
     font-size: 15;
   }
@@ -149,7 +149,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 30vh;
+    min-height: 70vh;
     background-color: black;
     font-size: 15;
   }.container {
@@ -190,7 +190,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 30vh;
+    min-height: 70vh;
     background-color: black;
     font-size: 15;
   }.container {
@@ -231,7 +231,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 30vh;
+    min-height: 70vh;
     background-color: black;
     font-size: 15;
   }
@@ -266,7 +266,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 30vh;
+    min-height: 70vh;
     background-color: black;
     font-size: 15;
   }

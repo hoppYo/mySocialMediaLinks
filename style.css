@@ -8,7 +8,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 20vh;
+  min-height: 30vh;
   background-color: black;
   font-size: 15;
 }
@@ -112,7 +112,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 20vh;
+    min-height: 30vh;
     background-color: black;
     font-size: 15;
   }
@@ -124,7 +124,7 @@ p {
     gap: 10px;
     background-color: hsl(0, 0%, 20%);
     padding: 20px;
-    min-height: 20vh;
+    min-height: 30vh;
     flex-basis: 40%;
   }
 
@@ -149,7 +149,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 20vh;
+    min-height: 30vh;
     background-color: black;
     font-size: 15;
   }.container {
@@ -160,7 +160,7 @@ p {
     gap: 10px;
     background-color: hsl(0, 0%, 20%);
     padding: 20px;
-    min-height: 20vh;
+    min-height: 30vh;
     flex-basis: 40%;
   }
   .picture {
@@ -190,7 +190,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 20vh;
+    min-height: 30vh;
     background-color: black;
     font-size: 15;
   }.container {
@@ -200,7 +200,7 @@ p {
     flex-direction: column;
     gap: 10px;
     background-color: hsl(0, 0%, 20%);
-    padding: 20px;
+    padding: 30px;
     min-height: 20vh;
     flex-basis: 40%;
   }
@@ -231,7 +231,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 20vh;
+    min-height: 30vh;
     background-color: black;
     font-size: 15;
   }
@@ -242,7 +242,7 @@ p {
     flex-direction: column;
     gap: 10px;
     background-color: hsl(0, 0%, 20%);
-    padding: 20px;
+    padding: 30px;
     min-height: 20vh;
     flex-basis: 40%;
   }
@@ -266,7 +266,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 20vh;
+    min-height: 30vh;
     background-color: black;
     font-size: 15;
   }
@@ -278,7 +278,7 @@ p {
     gap: 10px;
     background-color: hsl(0, 0%, 20%);
     padding: 20px;
-    min-height: 20vh;
+    min-height: 30vh;
     flex-basis: 40%;
   }
 
